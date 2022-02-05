@@ -23,15 +23,22 @@ ABM is a newly developed method in complex decision analysis and complex system 
 2. Use ['mesa'](https://pypi.org/project/Mesa/) to build a multi-agent concurrency model, and do a preliminary statistical analysis on the results.
 3. TODO: Visualize the proper cases on [QGIS](https://www.qgis.org/en/site/) system. A sample is as [link](todo)
 
+### Other self-taught skills and achievements
+1. waitin.
+
 ### Network researches and other projects during graduate experience
-1. Sun Yat-sen University's visiting exprience and achievements;
-2. Gambling 
-3. Prisoner's Dilemma project;
+1. Analysis of Shenzhen Fund Financial Risk Based on Network, [materials](Intern_report.pdf). The project finished in Sun Yat-sen University's visiting exprience;
+2. Monte Carlo approach to simulating the Monte Carlo 'gambling' games, [materials](report_fmq.pdf);
+3. Prisoner's Dilemma project in grid framework model, [materials](Dilemma.pdf);
 
-### 
-
+### Projects during undergraduate study
+1. A team recommendation system based on catfish effect, [published paper](https://ieeexplore.ieee.org/document/8611605);
+2. Application of motif-based random walk for link prediction;
 
 ## Other aspects
+drum kit；
+Hiphop dancing；
+Marathon；……
 
 
 You can use the [editor on GitHub](https://github.com/manqingfu/manqingfu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
