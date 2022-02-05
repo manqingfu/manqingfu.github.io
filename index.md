@@ -24,7 +24,7 @@ ABM is a newly developed method in complex decision analysis and complex system 
 3. TODO: Visualize the proper cases on [QGIS](https://www.qgis.org/en/site/) system. A sample is as [link](todo)
 
 ### Other self-taught skills and achievements
-1. waitin.
+waitin.
 
 ### Network researches and other projects during graduate experience
 1. Analysis of Shenzhen Fund Financial Risk Based on Network, [materials](Intern_report.pdf). The project finished in Sun Yat-sen University's visiting exprience;
