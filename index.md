@@ -1,12 +1,37 @@
 ## Welcome to Manqing's Pages
 
-## Education
-### Hong Kong University of Science and Technology, Sept,2019-Jun,2020
-Master of Science, Data-Driven Modelling
-### Dalian University of Technology, Sept,2015-Jun,2019
-Bachelor of Engineering, Cyber Engineering
+## Education & Working experience
+### Center of Complex Decision Analysis, Fudan University 
+Dec. 2020 - Now, Software Engineer
+### Hong Kong University of Science and Technology 
+Sept. 2019 - Nov. 2020, Master of Science, Data-Driven Modelling
+### Dalian University of Technology 
+Sept. 2015 - Jun. 2019, Bachelor of Engineering, Cyber Engineering
+
+## Academic projects
+### scpQCA
+scpQCA is a casuality analysis method rooted from QCA. scpQCA uses the set covering problem algorithms inspired by Operations Research and solve the Large-N and the complex-factor problem, also improves the mvQCA in most of the situations. Here are part of the achievements is as follows:
+1. Finishing a PyPI package named 'scpQCA', [linked](PyPIlink)
+2. Acquired software copyright in China, [linked](.jpg)
+3. scpQCA: An innovation in QCA method. [workingpaper](.pdf)
+4. monadic: influences of leaders' personality. [working paper](.pdf)
+5. PRC or PCS (if possible). [working paper](.pdf)
+
+### ABM in GIS
+ABM is a newly developed method in complex decision analysis and complex system research. GIS is the Geographic Information System contains variety of the reality informations. Processing the agent based model on the GIS can simulate the happened issues and predict the unprecedented cases. The skill tree of the ABM based on GIS is as follows:
+1. Utilize [‘OSMnx’](https://pypi.org/project/osmnx/) to read the real geographic information in the [OSM](https://www.openstreetmap.org/#map=11/31.2211/121.5934) database and convert it into network format.
+2. Use ['mesa'](https://pypi.org/project/Mesa/) to build a multi-agent concurrency model, and do a preliminary statistical analysis on the results.
+3. TODO: Visualize the proper cases on [QGIS](https://www.qgis.org/en/site/) system. A sample is as [link](todo)
+
+### Network researches and other projects during graduate experience
+1. Sun Yat-sen University's visiting exprience and achievements;
+2. Gambling 
+3. Prisoner's Dilemma project;
+
+### 
 
 
+## Other aspects
 
 
 You can use the [editor on GitHub](https://github.com/manqingfu/manqingfu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
