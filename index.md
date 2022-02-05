@@ -1,9 +1,13 @@
-### Hong Kong University of Science and Technology
+## Welcome to Manqing's Pages
 
-### Dalian University of Technology
+## Education
+### Hong Kong University of Science and Technology, Sept,2019-Jun,2020
+Master of Science, Data-Driven Modelling
+### Dalian University of Technology, Sept,2015-Jun,2019
+Bachelor of Engineering, Cyber Engineering
 
 
-## Welcome to GitHub Pages
+
 
 You can use the [editor on GitHub](https://github.com/manqingfu/manqingfu.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
