@@ -11,7 +11,7 @@ Sept. 2015 - Jun. 2019, Bachelor of Engineering, Cyber Engineering
 ## Academic projects
 ### scpQCA
 scpQCA is a casuality analysis method rooted from QCA. scpQCA uses the set covering problem algorithms inspired by Operations Research and solve the Large-N and the complex-factor problem, also improves the mvQCA in most of the situations. Here are part of the achievements is as follows:
-1. Finishing a PyPI package named 'scpQCA', [linked](PyPIlink)
+1. Finishing a PyPI package named 'scpQCA', [linked](https://pypi.org/project/scpQCA/#files)
 2. Acquired software copyright in China, [linked](.jpg)
 3. scpQCA: An innovation in QCA method. [workingpaper](.pdf)
 4. monadic: influences of leaders' personality. [working paper](.pdf)
